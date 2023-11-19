@@ -1,10 +1,10 @@
 # natHacks EEG P300 Truth Elicitor
 
-### General Setup
+### Setup
 
 1. The subject plays the role of a convicted criminal. We know they had an accomplice, and we have narrowed the search down to **10 suspects**.
 
-2. The subject will be presented with 10 pieces of paper face down. Each piece of paper has a different face on it. The subject will choose one of these 10 images, such that only they know which image they have chosen. This will be the face of their accomplice.
+2. The subject will be presented with 10 folded pieces of paper. Each piece of paper has a different face on it. The subject will choose one of these 10 images, such that only they know which image they have chosen. This will be the face of their accomplice.
 
 3. To properly assume their role, the subject will be briefed on their relationship with their accomplice, so as to generate an emotional association with the image of their accomplice.
   
