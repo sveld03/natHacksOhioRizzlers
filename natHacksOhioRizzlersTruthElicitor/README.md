@@ -2,13 +2,15 @@
 
 ### General Setup
 
-1. The subject will begin alone in a room and will have access to 3 **safes**. Each safe will contain a distinct object and corresponds to a distinct **buttons**.
+1. The subject plays the role of a convicted criminal. We know they had an accomplice, and we have narrowed the search down to **10 suspects**.
 
-2. The subject will **steal** an item from one of the safes and hide it on their person or put it in a nearby bag of their own.
+2. The subject will be presented with 10 pieces of paper face down. Each piece of paper has a different face on it. The subject will choose one of these 10 images, such that only they know which image they have chosen. This will be the face of their accomplice.
+
+3. To properly assume their role, the subject will be briefed on their relationship with their accomplice, so as to generate an emotional association with the image of their accomplice.
   
-3. The 3 safes will be set aside (todo: test in sight setting vs out of sight setting).
+4. The 3 safes will be set aside (todo: test in sight setting vs out of sight setting).
 
-4. The subject will then engage with the Truth Elicitor by looking at the **GUI** while pressing the correseponding **buttons**.
+5. The subject will then engage with the Truth Elicitor by looking at the **GUI** while pressing the correseponding **buttons**.
 
 ##### Blue Safe
 - contains a blue, rectangular credit card
